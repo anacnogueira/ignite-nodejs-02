@@ -7,6 +7,6 @@
 
 # RN
 
-- [] A transação pode ser do tipo crédito que somará ao valor total, débito subtrairá;
-- [] Deve ser possível identificarmos o suário entre as requisições;
-- [] O suário só pode visualizar suas próprias transações;
+- [ ] A transação pode ser do tipo crédito que somará ao valor total, débito subtrairá;
+- [ ] Deve ser possível identificarmos o usuário entre as requisições;
+- [ ] O suário só pode visualizar suas próprias transações;
