@@ -1,9 +1,9 @@
 #RF
 
-- [] O usuário deve poder criar uma nova transação;
-- [] O usuário deve poder obter um resumo da sua conta;
-- [] O suário deve pder listar todas transações que já correram;
-- [] O susário devepoder visualizar uma transação única
+- [x] O usuário deve poder criar uma nova transação;
+- [x] O usuário deve poder obter um resumo da sua conta;
+- [x] O Usuário deve pder listar todas transações que já correram;
+- [x] O usuário devepoder visualizar uma transação única
 
 #RN
 
